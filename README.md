@@ -13,7 +13,12 @@ Your task (whether you choose to accept it or not?) is to manipulate the DOM in 
 > I say, "Hi!"
 * Change the image below the list to be [this image](http://www.tioxic.com/wp-content/uploads/trex_4.jpg).
 * Change that image's size to be 300 pixels high.
-* Add a new image of your choice below or to the right of the other image, and make it 300 pixels high.
-* Add a 16th `<li>` to the list, with the same class as the others, and with an id that follows the others' numbering scheme.
+* Add a new image of your choice below or to the right of the other image, using HTML, and then, with JavaScript, make it 300 pixels high.
+* Add a 16th `<li>` to the list. You can use the html file to write in the `li`, and then, with JavaScript, give it the same class as the others and an id that follows the others' numbering scheme.
 * Give that `<li>` the following text:
 > Won't get fooled again.
+
+
+### Guidelines
+
+Unless specified in the directions, every change should be done via JavaScript.
